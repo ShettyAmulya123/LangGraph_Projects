@@ -4,3 +4,5 @@ langchain
 langgraph
 langchain-core
 langchain-community
+nbconvert 
+nbformat
